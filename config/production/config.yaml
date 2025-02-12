@@ -2,6 +2,11 @@
 
 baseURL: https://cher-ami.netlify.app/
 
+## OSUNY
+osuny:
+  website:
+    id: a90ff950-0f4e-4648-9f13-9489d4f3d031
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
